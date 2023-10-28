@@ -19,5 +19,4 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## Wireframe 3: Resume Builder
 
-![Resume Builder](https://github.com/jamesjbustos/web103_finalproject/assets/45052719/b3c6e63e-e9d4-4236-aa9f-f841e67a9c3a)
-
+![Resume Builder (1)](https://github.com/jamesjbustos/web103_finalproject/assets/45052719/23f089c7-cfb7-4f81-9a52-35f0665b979b)
